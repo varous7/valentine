@@ -1,6 +1,6 @@
 # Valentines
 
-[Live Demo](https://varous7.github.io/Valentine/)
+[Live Demo](https://varous7.github.io/valentine/)
 
 --------
 
